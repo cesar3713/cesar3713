@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cesar3713
-- 👀 I’m interested  el desarrollo de software
-- 🌱 I’m currently learning  automatizacion de pruebas y js
-- 💞️ I’m looking to collaborate on  proyectos de desarrollo web
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning test automation and js
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : cesar3713@outlook.com
 
 <!---
