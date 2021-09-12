@@ -1,4 +1,4 @@
-Me llamo Cesar Beas Suarez.
+Me llamo Julio Cesar Beas Suarez.
 Me interesa el desarrollo web y el testing de software. <br>
 Estos son los proyectos de desarrollo web en los que trabajo.
 
