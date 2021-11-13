@@ -1,7 +1,13 @@
-Hola 👍 . Me llamo Julio Cesar Beas Suarez.
+Hola 👍 . <br>
+Me llamo Julio Cesar Beas Suarez.
 Me interesa el desarrollo web y el testing de software. <br>
-Estos son los 🧪proyectos de desarrollo web en los que trabajo.
+Uso los siguientes lenguajes: 
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">Javascript,
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">Html5,
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Css3. <br>
+Aquí se encuentran los 🧪proyectos de desarrollo web en los que trabajo.
 
-📬 Contacto:
-<p> 📧 Correo electrónico: cesar3713@outlook.com </p>
-<p> 💼  Linkedln: https://www.linkedin.com/in/julio-beas-a74aa2216/ </p>
+<p>📬 Contacto: <br>
+📧 Correo electrónico: cesar3713@outlook.com <br>
+💼  Linkedln: https://www.linkedin.com/in/julio-beas-a74aa2216/ </p>
+
