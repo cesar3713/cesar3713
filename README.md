@@ -8,6 +8,6 @@ Aquí se encuentran los proyectos de desarrollo web en los que trabajo.
 
 <p> Contacto: <br>
  Correo electrónico: cesar3713@outlook.com <br>
- Linkedln: https://www.linkedin.com/in/julio-beas-a74aa2216/ <br>
+ Linkedln: www.linkedin.com/in/cesar-suarez-a74aa2216 <br>
  Sitio web: https://cesar3713.github.io/Portfolio/</p>
 
