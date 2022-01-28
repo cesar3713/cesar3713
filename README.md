@@ -10,6 +10,6 @@ En esta cuenta de Github se encuentran los proyectos de desarrollo de software e
 
 <p> Contacto: <br>
  Correo electrónico: cesar3713@outlook.com <br>
- Linkedln: www.linkedin.com/in/cesar-suarez-a74aa2216 <br>
+ Linkedln: https://www.linkedin.com/in/cesar-beas-suarez-a74aa2216/ <br>
  Sitio web: https://cesar3713.github.io/Portfolio/</p>
 
