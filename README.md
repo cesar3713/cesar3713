@@ -1,5 +1,5 @@
 Hola . Me llamo Julio Cesar Beas Suarez. <br>
-Quiero ser Desarrollador web. <br>
+Estoy aprendiendo sobre desarrollo y testing de software. <br>
 Uso los siguientes lenguajes: 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">Html5,
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Css3,
